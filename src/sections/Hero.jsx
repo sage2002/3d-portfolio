@@ -52,7 +52,7 @@ const Hero = () => {
             </div>
 
             <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">
-              Hi, I’m Snigdha, a designer & dev based in India with a passion for
+              Hi, I’m Snigdha <br /> A designer & dev based in India with a passion for 
               creativity.
             </p>
 
