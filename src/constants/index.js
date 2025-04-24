@@ -10,8 +10,8 @@ export const words = [
 ];
 
 export const counterItems = [
-    { value: 2, suffix: "+", label: "Years of dev Experience" },
+    { value: 2, suffix: "+", label: "Years of Dev Experience" },
     { value: 3, suffix: "+", label: "idk" },
     { value: 5, suffix: "+", label: "Completed Projects" },
-    { value: 3, suffix: "+", label: "Years of designing Experience" },
+    { value: 3, suffix: "+", label: "Years of UI/UX Experience" },
 ];

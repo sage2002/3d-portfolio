@@ -16,7 +16,7 @@ const HeroLights = () => {
         angle={0.3}
         intensity={40}
         penumbra={2.5}
-        color="#4cc9f0"
+        color="#FEF372FF"
         />
 
         <spotLight 
@@ -24,7 +24,7 @@ const HeroLights = () => {
         angle={0.4}
         intensity={60}
         penumbra={1}
-        color="#9d4edd"
+        color="#DDB24EFF"
         />
 
         <primitive 
@@ -37,13 +37,13 @@ const HeroLights = () => {
         <pointLight 
         position={[0, 1, 0]}
         intensity ={10}
-        color="#7209b7"
+        color="#B78309FF"
         />
 
         <pointLight 
         position={[1, 2, -2]}
         intensity ={10}
-        color="#0d00a4"
+        color="#A45700FF"
         />
     </>
   )
