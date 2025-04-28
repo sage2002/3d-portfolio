@@ -144,7 +144,7 @@ export const techStackIcons = [
     {
       name: "UI/UX Designer",
       modelPath: "/models/figma-transformed.glb",
-      scale: 2.5,
+      scale: 2,
       rotation: [0, 0, 0],
     },
     {
@@ -170,8 +170,8 @@ export const techStackIcons = [
 
 export const testimonial = [
   {
-    name: "Esther Howard",
-    mentions: "@estherhoward",
+    name: "Aditya Paul",
+    mentions: "@iadityapaul",
     review:
       "I can’t say enough good things about Adrian. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.",
     imgPath: "/images/client1.png",
