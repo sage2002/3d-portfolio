@@ -22,7 +22,7 @@ const NavBar = () => {
      "not-scrolled"}`}>
         <div className="inner">
             <a className="logo" href="#hero">
-                Snigdha | portfolio
+            <img src="/images/logoImage.svg" alt="Logo" className="h-20 w-auto object-contain" />
             </a>
 
             <nav className="desktop">

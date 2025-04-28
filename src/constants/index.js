@@ -29,10 +29,10 @@ export const words = [
 ];
 
 export const counterItems = [
-    { value: 100, suffix: "+", label: "Years of Dev Experience" },
-    { value: 200, suffix: "+", label: "idk" },
-    { value: 1000, suffix: "+", label: "Completed Projects" },
-    { value: 600, suffix: "+", label: "Years of UI/UX Experience" },
+    { value: 2, suffix: "+", label: "Years of Dev Experience" },
+    { value: 92, suffix: "%", label: "Client Retention rate" },
+    { value: 3, suffix: "+", label: "Completed Projects" },
+    { value: 3.5, suffix: "+", label: "Years of UI/UX Experience" },
 ];
 
 export const logoIconsList = [
@@ -79,12 +79,12 @@ export const logoIconsList = [
       desc: "Delivering high-quality results while maintaining attention to every detail.",
     },
     {
-      imgPath: "/images/chat.png",
+      imgPath: "/images/seo.png",
       title: "UI/UX Associate 2023-24 @GDSC-AOT",
       desc: "Keeping you updated at every step to ensure transparency and clarity.",
     },
     {
-      imgPath: "/images/time.png",
+      imgPath: "/images/seo.png",
       title: "Design Lead 2023-25 @IEI SC-CSBS",
       desc: "Making sure projects are completed on schedule, with quality & attention to detail.",
     },
@@ -144,7 +144,7 @@ export const techStackIcons = [
     {
       name: "UI/UX Designer",
       modelPath: "/models/figma-transformed.glb",
-      scale: 2,
+      scale: 2.5,
       rotation: [0, 0, 0],
     },
     {
