@@ -85,12 +85,12 @@ export const logoIconsList = [
       desc: "My responsibilities included designing graphics. I led a team of creatives to conceptualize and execute engaging social media content, ensuring alignment with the brand's vision and values.",
     },
     {
-      imgPath: "/images/seo.png",
+      imgPath: "/images/geo.png",
       title: "UI/UX Associate 2023-24 @GDSC-AOT",
       desc: " I created engaging social media content, leveraging my creativity to promote events, initiatives, and achievements of the club. This experience honed my skills in design tools, effective communication, and teamwork.",
     },
     {
-      imgPath: "/images/seo.png",
+      imgPath: "/images/heo.png",
       title: "Design Lead 2023-25 @IEI SC-CSBS",
       desc: " I played a pivotal role in conceptualizing designs that aligned with the organization’s goals. I led the design team, fostering collaboration and ensuring high-quality deliverables for various projects.",
     },
@@ -103,9 +103,9 @@ export const logoIconsList = [
       imgPath: "/images/exp1.png",
       logoPath: "/images/logo1.png",
       title: "Kendriya Vidyalaya Barrackpore (Army)",
-      date: "CBSE, Higher secondary, 10th",
+      date: "CBSE, Secondary, 10th",
       details:  [
-        "Scored 95.6% in (class X) Higher secondary examination.",
+        "Scored 95.6% in (class X) Secondary examination.",
         "Rashtrapati & Rajya-purushkar awardee at Bharat Scouts & Guides.",
         "Learned German language(A2)level & also won intra and inter school cultural competitions.",
       ],
@@ -119,8 +119,8 @@ export const logoIconsList = [
       date: "WBSCTE, Diploma - Computer Science Technology",
       details: [
         "Scored 80% (8.2)CGPA in CST Diploma(3-year degree).",
-        "Build a blog website with a classmate and also learned python.",
-        "Build a Library management system using python for the final year project.",
+        "Built a blog website with a classmate and also learned python.",
+        "Built a Library management system using python for the final year project.",
       ],
     },
     {
@@ -219,6 +219,29 @@ export const testimonial = [
     review:
       "It was a pleasure to work with Snigdha. Her professionalism and dedication to delivering exceptional designs was evident throughout our project. If you are seeking to elevate your designs and elevate your brands, Snigdha is the go to person.",
     imgPath: "/images/client6.png",
+  },
+];
+
+export const socialImgs = [
+  {
+    name: "insta",
+    url: "https://www.instagram.com/_.mimmie02._/",
+    imgPath: "/images/insta.png",
+  },
+  {
+    name: "github",
+    url: "https://github.com/sage2002",
+    imgPath: "/images/github.png",
+  },
+  {
+    name: "x",
+    url: "https://x.com/kundusnigdha02",
+    imgPath: "/images/x.png",
+  },
+  {
+    name: "linkedin",
+    url: "https://www.linkedin.com/in/snigdha-kundu-2b4862254/",
+    imgPath: "/images/linkedin.png",
   },
 ];
 
