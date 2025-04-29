@@ -49,7 +49,7 @@ const ShowcaseSection = () => {
     <section id="work" ref={sectionRef} className="app-showcase">
       <div className="w-full">
         <div className="showcaselayout">
-          <div className="first-project-wrapper" ref={project1Ref}>
+          <a href="https://realtime-chat-app-five-mu.vercel.app/" target="_blank" rel="noopener noreferrer" className="first-project-wrapper" ref={project1Ref}>
             <div className="image-wrapper">
               <img src="/images/project1.png" alt="Chatbud" />
             </div>
@@ -62,25 +62,27 @@ const ShowcaseSection = () => {
                 user-friendly experience.
               </p>
             </div>
-          </div>
+          </a>
 
           <div className="project-list-wrapper overflow-hidden">
-            <div className="project" ref={project2Ref}>
+            <a href="https://www.figma.com/design/5zlo19wwAkhYCM1vj0rLbs/Figma-design-samples?node-id=0-1&t=cFDcjUN3H8kP4fPI-1" target="_blank" rel="noopener noreferrer"  className="project" ref={project2Ref}>
               <div className="image-wrapper bg-[#bbd8f9]">
                 <img
                   src="/images/project2.png"
                   alt="Project Loading"
                 />
               </div>
-              <h2>Coming soon</h2>
-            </div>
+              <h2>Figma UI/UX Design </h2>
+              <p className="text-white-50 md:text-l">Contact me for the access to the Figma file
+              </p>
+            </a>
 
-            <div className="project" ref={project3Ref}>
+            <a href="https://foodiez-two.vercel.app/" target="_blank" rel="noopener noreferrer"className="project" ref={project3Ref}>
               <div className="image-wrapper bg-[#cdb9ef]">
-                <img src="/images/project2.png" alt="Project Loading" />
+                <img src="/images/project3.png" alt="Project Loading" />
               </div>
-              <h2>Coming soon</h2>
-            </div>
+              <h2>Food delivery & restaurant frontend app</h2>
+            </a>
           </div>
         </div>
       </div>

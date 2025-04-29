@@ -32,7 +32,7 @@ export const counterItems = [
     { value: 2, suffix: "+", label: "Years of Dev Experience" },
     { value: 92, suffix: "%", label: "Client Retention rate" },
     { value: 3, suffix: "+", label: "Completed Projects" },
-    { value: 3.5, suffix: "+", label: "Years of UI/UX Experience" },
+    { value: 3, suffix: "+", label: "Years of UI/UX Experience" },
 ];
 
 export const logoIconsList = [
@@ -69,6 +69,12 @@ export const logoIconsList = [
     {
       imgPath: "/images/logos/company-logo-11.png",
     },
+    {
+      imgPath: "/images/logos/company-logo-12.png",
+    },
+    {
+      imgPath: "/images/logos/company-logo-13.png",
+    },
   ];
 
 
@@ -76,55 +82,58 @@ export const logoIconsList = [
     {
       imgPath: "/images/seo.png",
       title: "Design Lead 2022-24 @Resourcio Community",
-      desc: "Delivering high-quality results while maintaining attention to every detail.",
+      desc: "My responsibilities included designing graphics. I led a team of creatives to conceptualize and execute engaging social media content, ensuring alignment with the brand's vision and values.",
     },
     {
       imgPath: "/images/seo.png",
       title: "UI/UX Associate 2023-24 @GDSC-AOT",
-      desc: "Keeping you updated at every step to ensure transparency and clarity.",
+      desc: " I created engaging social media content, leveraging my creativity to promote events, initiatives, and achievements of the club. This experience honed my skills in design tools, effective communication, and teamwork.",
     },
     {
       imgPath: "/images/seo.png",
       title: "Design Lead 2023-25 @IEI SC-CSBS",
-      desc: "Making sure projects are completed on schedule, with quality & attention to detail.",
+      desc: " I played a pivotal role in conceptualizing designs that aligned with the organization’s goals. I led the design team, fostering collaboration and ensuring high-quality deliverables for various projects.",
     },
   ];
 
   export const expCards = [
     {
-      review: "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+      courseDuration: "17 Sep 2023",
+      review: "Google Cloud skill boost, Google Cloud Computing Foundations: Cloud Computing Fundamentals, Infrastructure in Google Cloud.",
       imgPath: "/images/exp1.png",
       logoPath: "/images/logo1.png",
       title: "Kendriya Vidyalaya Barrackpore (Army)",
       date: "CBSE, Higher secondary, 10th",
       details:  [
-        "Developed and maintained user-facing features for the Hostinger website.",
-        "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
-        "Optimized web applications for maximum speed and scalability.",
+        "Scored 95.6% in (class X) Higher secondary examination.",
+        "Rashtrapati & Rajya-purushkar awardee at Bharat Scouts & Guides.",
+        "Learned German language(A2)level & also won intra and inter school cultural competitions.",
       ],
     },
     {
-      review: "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
+      courseDuration: "03 Feb 2025",
+      review: "Certification course on JavaScript Essentials - From Beginner to Advance Developer",
       imgPath: "/images/exp2.png",
       logoPath: "/images/logo2.png",
       title: "Regent Institue of science & Technology",
       date: "WBSCTE, Diploma - Computer Science Technology",
       details: [
-        "Led the development of Docker's web applications, focusing on scalability.",
-        "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
-        "Contributed to open-source projects that were used with the Docker ecosystem.",
+        "Scored 80% (8.2)CGPA in CST Diploma(3-year degree).",
+        "Build a blog website with a classmate and also learned python.",
+        "Build a Library management system using python for the final year project.",
       ],
     },
     {
-      review: "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
+      courseDuration: "25 April 2025",
+      review: "Event Organizer & Event Head of UXplore (UI/UX competition) of Techfiesta'24 & '25 of AOT.",
       imgPath: "/images/exp3.png",
       logoPath: "/images/logo3.png",
       title: "Academy of Technology",
       date: "MAKAUT, B.Tech - Computer Science & Business systems",
       details: [
-        "Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
-        "Improved app performance and user experience through code optimization and testing.",
-        "Coordinated with the product team to implement features based on feedback.",
+        "Currently in Final year (8th sem) with 8.2 CGPA",
+        "Organized multiple tech & non-tech events including Techfiesta'24 & '25, gdsc-aot events and online Arcade challenges AND SC-CSBS events.",
+        "Coordinated with multiple tech enthusiasts and also participated in multiple Hackathons like Hack4Bengal season 2 etc.",
       ],
     },
 ];
@@ -170,45 +179,45 @@ export const techStackIcons = [
 
 export const testimonial = [
   {
-    name: "Aditya Paul",
-    mentions: "@iadityapaul",
+    name: "Gunjan Saha",
+    mentions: "@gunjansaha55",
     review:
-      "I can’t say enough good things about Adrian. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.",
-    imgPath: "/images/client1.png",
-  },
-  {
-    name: "Wade Warren",
-    mentions: "@wadewarren",
-    review:
-      "Working with Adrian was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.",
-    imgPath: "/images/client3.png",
-  },
-  {
-    name: "Guy Hawkins",
-    mentions: "@guyhawkins",
-    review:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    imgPath: "/images/client2.png",
-  },
-  {
-    name: "Marvin McKinney",
-    mentions: "@marvinmckinney",
-    review:
-      "Adrian was a pleasure to work with. He turned our outdated website into a fresh, intuitive platform that’s both modern and easy to navigate. Fantastic work overall.",
+      "Snigdha is a truly gifted designer with an amazing eye for detail. She has a way of turning ideas into something wonderful and professional. I wouldn’t hesitate to recommend her for any design work.",
     imgPath: "/images/client5.png",
   },
   {
-    name: "Floyd Miles",
-    mentions: "@floydmiles",
+    name: "Nabajit Bhadury",
+    mentions: "@nabajitbhadury",
     review:
-      "Adrian’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional!",
+      "Snigdha is one of the most efficient designer I have collaborated with. Her reactive deigns sense, untouchable component selection skills and clean UI and UX works is a treat to work with.",
+    imgPath: "/images/client2.png",
+  },
+  {
+    name: "Sayan Mukherjee",
+    mentions: "Community co-lead @resourcio",
+    review:
+      "Snigdha has consistently showcased outstanding leadership and community management skills since her early days of college. A strong and dedicated leader, she always strives to support her peers and teammates, paying close attention to everyone's work and growth. With excellent outreach and speaking abilities, combined with her creative eye for design and development, Snigdha stands out as a well-rounded leader who inspires those around her through her commitment, vision, and genuine care for community.",
+    imgPath: "/images/client3.png",
+  },
+  {
+    name: "Soumyajit Mondal",
+    mentions: "Lead Resourcio @Soumyajit2825",
+    review:
+      "Snigdha is a super creative and always on point with design. Working with her makes everything look and feel better!",
+    imgPath: "/images/client1.png",
+  },
+  {
+    name: "Aratrik Bandopadhyay",
+    mentions: "@Aratrik123 . Ex convenor-CSE",
+    review:
+      "Working with Snigdha has always made it easier to solve problems, she is really a very innovative designer as well as a good critic!",
     imgPath: "/images/client4.png",
   },
   {
-    name: "Albert Flores",
-    mentions: "@albertflores",
+    name: "Koustav Chatterjee",
+    mentions: "@Koustavjr",
     review:
-      "Adrian was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend and backend dev are top-notch.",
+      "It was a pleasure to work with Snigdha. Her professionalism and dedication to delivering exceptional designs was evident throughout our project. If you are seeking to elevate your designs and elevate your brands, Snigdha is the go to person.",
     imgPath: "/images/client6.png",
   },
 ];
